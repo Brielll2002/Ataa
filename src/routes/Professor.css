@@ -1,0 +1,10 @@
+.voltar{
+    position: absolute;
+    top: 10%;
+    left: 1%;
+    padding: 5px;
+    text-decoration: none;
+    background-color: rgb(26, 113, 226);
+    color: white;
+    border-radius: 10px;
+}
